@@ -7,6 +7,6 @@ https://www.youtube.com/watch?v=lEPWVFjySCg
 
 ### Important files
 
-**Part1_Env_AC.ipynb** Explanation of gym environments used and our Actor Critic main file.
+**Part1_Env_AC.ipynb** Explanation of gym environments used and our Actor Critic main file. Requires *train.py*
 
 **Part2_SAC.ipynb** Implementation of Soft Actor Critic by Tuomas Haarnoja.
